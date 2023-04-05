@@ -1,3 +1,5 @@
+# Very simple counter using lambda
+
 Counter = lambda do
     x = 0
     get_x = lambda { x }
