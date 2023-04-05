@@ -1,3 +1,8 @@
+# Very simple counter program:
+# Get the current value of the counter
+# Increment the counter
+# Decrement the counter
+
 class Counter
     def initialize
         @x = 0
